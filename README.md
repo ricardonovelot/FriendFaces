@@ -27,8 +27,7 @@ FriendFaces fetches a collection of randomly generated user data from a provided
 </td>
 <td>
 
-![export415346BD-B318-436A-B38E-ED4D4D2A4406](https://github.com/ricardonovelot/FriendFaces/assets/84286086/7119615e-001c-449f-a9bc-0bfb944f5130)
-
+![export777C6D61-B019-4229-8D69-32519E4816C4](https://github.com/ricardonovelot/FriendFaces/assets/84286086/aab55761-764b-4cfc-a0e0-72a27b71466e)
 
 </td>
 </tr>
