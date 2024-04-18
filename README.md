@@ -31,11 +31,12 @@
 </td>
 </tr>
 </table>
+
 ## Installation and Usage
 
 To experience FriendFace:
 
-1. Clone the GitHub repository: git clone https://github.com/yourusername/FriendFace.git
+1. Clone the GitHub repository: git clone https://github.com/yourusername/FriendFaces.git
 2. Open the project in Xcode.
 3. Choose your target device or simulator.
 4. Build and run the application.
