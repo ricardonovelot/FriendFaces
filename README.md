@@ -3,6 +3,7 @@
 <table>
 <tr>
 <td>
+
  ## About the Project
  
  FriendFaces fetches a collection of randomly generated user data from a provided URL, decodes the JSON into Swift types, and presents it.
