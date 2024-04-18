@@ -24,7 +24,9 @@
  - Encouraging best practices for loading data only when necessary to avoid redundant network requests.
 </td>
 <td>
-![export933BF086-300A-462E-99A9-8E6B41FA2136](https://github.com/ricardonovelot/FriendFaces/assets/84286086/38ec1e76-8285-4405-83f3-9ee7fb7292d7)
+
+![export933BF086-300A-462E-99A9-8E6B41FA2136](https://github.com/ricardonovelot/FriendFaces/assets/84286086/f37784ef-9b1b-4041-acd3-60b0e5da563a)
+
 </td>
 </tr>
 </table>
