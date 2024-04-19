@@ -10,8 +10,8 @@
  
  ### Features
  
- - **Networking with URLSession:** Efficiently fetches JSON data from the internet.
- - **Detailed User Profiles:** Tapping on a user reveals a detailed view with more comprehensive information.
+ - **Networking:** Efficiently fetch data from the internet, ensuring quick and reliable access to user information
+ - **Data Fetching:** Users can tap on any profile to unveil a more detailed view, offering comprehensive information that enhances understanding.
  
  ### Technical Highlights
  
