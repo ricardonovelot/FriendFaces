@@ -6,23 +6,19 @@
 
  ## About the Project
  
- FriendFaces fetches a collection of randomly generated user data from a provided URL, decodes the JSON into Swift types, and presents it.
+ FriendFaces fetches a collection of user data from a provided URL and presents it.
  
  ### Features
  
  - **Networking with URLSession:** Efficiently fetches JSON data from the internet.
- - **JSON Parsing with Codable:** Seamlessly converts JSON data into Swift structs for `User` and `Friend`.
- - **Dynamic Lists:** Displays a list of users, showing brief information like their name and active status.
- - **Detailed User Profiles:** Tapping on a user reveals a detailed view with more comprehensive information, including their friends' names.
- - **SwiftUI Navigation:** Utilizes `NavigationStack` for intuitive navigation between user lists and detailed views.
+ - **Detailed User Profiles:** Tapping on a user reveals a detailed view with more comprehensive information.
  
  ### Technical Highlights
  
  - Implementing `URLSession` to fetch data from the web.
  - Utilizing `Codable` for efficient JSON parsing and data model creation.
- - Designing user interfaces with SwiftUI, including lists and detail views.
  - Applying Swift's `DateDecodingStrategy` for handling ISO-8601 date formats.
- - Encouraging best practices for loading data only when necessary to avoid redundant network requests.
+  
 </td>
 <td>
 
