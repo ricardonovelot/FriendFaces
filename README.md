@@ -6,7 +6,7 @@
 
  ## About the Project
  
- FriendFaces app that retrieves user data from a specified URL and displays it in a user-friendly format.
+ FriendFaces app that retrieves user data from the web and displays it in a user-friendly format.
  
  ### Features
  
