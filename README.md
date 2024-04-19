@@ -6,7 +6,7 @@
 
  ## About the Project
  
- FriendFaces fetches a collection of user data from a provided URL and presents it.
+ FriendFaces app that retrieves user data from a specified URL and displays it in a user-friendly format.
  
  ### Features
  
@@ -18,6 +18,10 @@
  - Implementing `URLSession` to fetch data from the web.
  - Utilizing `Codable` for efficient JSON parsing and data model creation.
  - Applying Swift's `DateDecodingStrategy` for handling ISO-8601 date formats.
+
+ - Data Retrieval: Implements `URLSession` for effective data fetching from online sources.
+ - Data Parsing: Employs `Codable` for JSON parsing, facilitating the creation of data models.
+ - Date Handling: Incorporates Swift's `DateDecodingStrategy` to handle ISO-8601 date formats, ensuring that date data is consistently and correctly parsed.
   
 </td>
 <td>
