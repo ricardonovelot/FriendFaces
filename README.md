@@ -40,8 +40,6 @@ To experience FriendFace:
 2. Open the project in Xcode.
 3. Choose your target device or simulator.
 4. Build and run the application.
- 
-Ensure your development environment is up to date, specifically with the latest Xcode version, to fully support all SwiftUI features showcased in this project.
 
 ## License
 
