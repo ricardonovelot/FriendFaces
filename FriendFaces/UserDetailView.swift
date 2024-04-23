@@ -182,11 +182,12 @@ struct SectionCardView<Content: View>: View {
 }
 
 #Preview {
-    let friend1 = Friend(id: UUID(), name: "Hawkins Patel")
-    let friend2 = Friend(id: UUID(), name: "Jewel Sexton")
+    let friend1 = Friend(id: "1221092", name: "Hawkins Patel")
+    let friend2 = Friend(id: "1221093", name: "Jewel Sexton")
+    
 
     let user = User(
-        id: UUID(),
+        id: "1221091",
         isActive: false,
         name: "Alford Rodriguez",
         age: 21,
@@ -199,6 +200,6 @@ struct SectionCardView<Content: View>: View {
         friends: [friend1, friend2]
     )
     
-    return NavigationStack{UserDetailView(user: user)}
+    return NavigationStack{UserDetailView(user: user)   }
 }
 

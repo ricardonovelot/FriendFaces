@@ -6,8 +6,16 @@
 //
 
 import Foundation
+import SwiftData
 
-struct Friend: Codable, Identifiable, Hashable {
-    var id: UUID
+//only the head of your schema needs the @Model macro
+class Friend: Codable {
+
+    var id: String
     var name: String
+    
+    init(id: String, name: String) {
+            self.id = id
+            self.name = name
+    }
 }

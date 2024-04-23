@@ -6,9 +6,13 @@
 //
 
 import SwiftUI
+import SwiftData
 
 struct ContentView: View {
-    @State private var users = [User]()
+    
+    @Environment(\.modelContext) var modelContext
+    @Query(sort: \User.name) var users: [User]
+//    @State private var users = [User]()
     
     var body: some View {
         NavigationStack{
@@ -23,6 +27,7 @@ struct ContentView: View {
                     }
                 }
             }
+            .contentMargins(.top, 12)
             .navigationDestination(for: User.self, destination: {user in
                 UserDetailView(user: user)
             })
@@ -53,9 +58,13 @@ struct ContentView: View {
             decoder.dateDecodingStrategy = .iso8601
 
             // Decode and map the results to our Model
-            let decodedResponse = try decoder.decode([User].self, from: data)
-
-            users = decodedResponse
+            if let decodedResponse = try decoder.decode([User]?.self, from: data){
+                    for user in decodedResponse {
+                        modelContext.insert(user)
+                    }
+                } else {
+                    print("error")
+                }
 
         } catch {
             // Improved error handling
@@ -67,6 +76,9 @@ struct ContentView: View {
 }
 
 #Preview {
-    ContentView()
+    MainActor.assumeIsolated {
+           ContentView()
+                .modelContainer(for: User.self)
+       }
 }
 
