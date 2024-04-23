@@ -14,11 +14,8 @@
  - **Data Fetching:** Users can tap on any profile to unveil a more detailed view, offering comprehensive information that enhances understanding.
  
  ### Technical Highlights
- 
- - Implementing `URLSession` to fetch data from the web.
- - Utilizing `Codable` for efficient JSON parsing and data model creation.
- - Applying Swift's `DateDecodingStrategy` for handling ISO-8601 date formats.
 
+ - SwiftData Integration: incorporates SwiftData for data handling and object mapping.
  - Data Retrieval: Implements `URLSession` for effective data fetching from online sources.
  - Data Parsing: Employs `Codable` for JSON parsing, facilitating the creation of data models.
  - Date Handling: Incorporates Swift's `DateDecodingStrategy` to handle ISO-8601 date formats, ensuring that date data is consistently and correctly parsed.
