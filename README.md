@@ -10,14 +10,14 @@
  
  ### Features
  
- - **Networking:** Efficiently fetch data from the internet, ensuring quick and reliable access to user information
- - **Data Fetching:** Users can tap on any profile to unveil a more detailed view, offering comprehensive information that enhances understanding.
+ - **Networking:** Efficiently fetch data from the internet.
+ - **Details Page:** Users can tap on any profile to unveil a more detailed view.
  
  ### Technical Highlights
 
  - SwiftData Integration: incorporates SwiftData for data handling and object mapping.
- - Data Retrieval: Implements `URLSession` for effective data fetching from online sources.
- - Data Parsing: Employs `Codable` for JSON parsing, facilitating the creation of data models.
+ - Data Retrieval: Implements `URLSession` for data fetching.
+ - Data Parsing: Employs `Codable` for JSON parsing.
  - Date Handling: Incorporates Swift's `DateDecodingStrategy` to handle ISO-8601 date formats, ensuring that date data is consistently and correctly parsed.
   
 </td>
