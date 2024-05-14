@@ -19,6 +19,8 @@
  - URLSession
  - JSON parsing.
  - DateDecodingStrategy, ensuring that date data is consistently and correctly parsed.
+
+As showcased in my [recent projects](https://github.com/ricardonovelot)
   
 </td>
 <td>
