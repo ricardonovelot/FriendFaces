@@ -15,10 +15,10 @@
  
  ### Technical Highlights
 
- - SwiftData Integration: incorporates SwiftData for data handling and object mapping.
- - Data Retrieval: Implements `URLSession` for data fetching.
- - Data Parsing: Employs `Codable` for JSON parsing.
- - Date Handling: Incorporates Swift's `DateDecodingStrategy` to handle ISO-8601 date formats, ensuring that date data is consistently and correctly parsed.
+ - SwiftData.
+ - URLSession
+ - JSON parsing.
+ - DateDecodingStrategy, ensuring that date data is consistently and correctly parsed.
   
 </td>
 <td>
