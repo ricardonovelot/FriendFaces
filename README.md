@@ -30,7 +30,7 @@
 </td>
 </tr>
 </table>
-
+<br>
 ## Installation and Usage
 
 To experience FriendFace:
