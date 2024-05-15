@@ -18,7 +18,7 @@
 <h3>Technical Highlights</h3>
 <ul>
 <li>SwiftData.</li>
-<li>URLSession</li>
+<li><code>URLSession</code></li>
 <li>JSON parsing.</li>
 <li>DateDecodingStrategy.</li>
 </ul>
