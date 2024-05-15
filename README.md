@@ -6,9 +6,9 @@
 <tr>
 <td valign="top">
 
- ## About the Project
+ ## About
  
- FriendFaces app retrieves user data from the web and displays it in a user-friendly format.
+ FriendFaces retrieves user data from the web and displays it in a user-friendly format.
  
  ### Features
  
