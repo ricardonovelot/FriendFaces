@@ -50,3 +50,5 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 "100 Days with SwiftUI" for presenting the challenge and guiding through advanced concepts of SwiftUI and Swift.
 The iOS development community for sharing knowledge and best practices.
+
+<br>
