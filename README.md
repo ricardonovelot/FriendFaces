@@ -1,27 +1,28 @@
 <h3><a href="https://github.com/ricardonovelot">❮‎‎‎ &nbsp; Recent Projects</a></h3>
 
-# FriendFaces
+<h1>FriendFaces</h1>
 
 <table>
 <tr>
 <td valign="top">
 
- ## About
- 
- FriendFaces retrieves user data from the web and displays it in a user-friendly format.
- 
- ### Features
- 
- - **Contacts List**
- - **Contacts Details Page**
- 
- ### Technical Highlights
+<h2>About</h2>
+<p>FriendFaces retrieves user data from the web and displays it in a user-friendly format.</p>
 
- - SwiftData.
- - URLSession
- - JSON parsing.
- - DateDecodingStrategy.
-  
+<h3>Features</h3>
+<ul>
+<li><strong>Contacts List</strong></li>
+<li><strong>Contacts Details Page</strong></li>
+</ul>
+
+<h3>Technical Highlights</h3>
+<ul>
+<li>SwiftData.</li>
+<li>URLSession</li>
+<li>JSON parsing.</li>
+<li>DateDecodingStrategy.</li>
+</ul>
+
 </td>
 <td valign="top">
 <img src="https://github.com/ricardonovelot/FriendFaces/assets/84286086/f37784ef-9b1b-4041-acd3-60b0e5da563a" width="400">
@@ -30,26 +31,21 @@
 </table>
 <br>
 
-## Installation and Usage
-
-To experience FriendFace:
-
-1. Clone the GitHub repository: git clone https://github.com/yourusername/FriendFaces.git
-2. Open the project in Xcode.
-3. Choose your target device or simulator.
-4. Build and run the application.
-
+<h2>Installation and Usage</h2>
+<p>To experience FriendFace:</p>
+<ol>
+<li>Clone the GitHub repository: git clone https://github.com/yourusername/FriendFaces.git</li>
+<li>Open the project in Xcode.</li>
+<li>Choose your target device or simulator.</li>
+<li>Build and run the application.</li>
+</ol>
 <br>
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
-
+<h2>License</h2>
+<p>This project is licensed under the MIT License - see the LICENSE.md file for details.</p>
 <br>
 
-## Acknowledgments
-
-"100 Days with SwiftUI" for presenting the challenge and guiding through advanced concepts of SwiftUI and Swift.
-The iOS development community for sharing knowledge and best practices.
-
+<h2>Acknowledgments</h2>
+<p>"100 Days with SwiftUI" for presenting the challenge and guiding through advanced concepts of SwiftUI and Swift.</p>
+<p>The iOS development community for sharing knowledge and best practices.</p>
 <br>
