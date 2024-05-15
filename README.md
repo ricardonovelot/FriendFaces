@@ -25,7 +25,7 @@
 </td>
 <td valign="top">
 
-![export933BF086-300A-462E-99A9-8E6B41FA2136](https://github.com/ricardonovelot/FriendFaces/assets/84286086/f37784ef-9b1b-4041-acd3-60b0e5da563a)
+<img src="https://github.com/ricardonovelot/FriendFaces/assets/84286086/f37784ef-9b1b-4041-acd3-60b0e5da563a" height="600">
 
 </td>
 </tr>
