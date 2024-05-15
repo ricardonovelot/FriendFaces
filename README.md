@@ -33,7 +33,6 @@
 <br>
 
 <h2>Installation and Usage</h2>
-<p>To experience FriendFace:</p>
 <ol>
 <li>Clone the GitHub repository.</li>
 <li>Open the project in Xcode.</li>
