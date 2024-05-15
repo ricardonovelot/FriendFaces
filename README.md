@@ -22,6 +22,7 @@
 <li>JSON parsing.</li>
 <li>DateDecodingStrategy.</li>
 </ul>
+<br>
 
 </td>
 <td valign="top">
@@ -34,7 +35,7 @@
 <h2>Installation and Usage</h2>
 <p>To experience FriendFace:</p>
 <ol>
-<li>Clone the GitHub repository: git clone https://github.com/yourusername/FriendFaces.git</li>
+<li>Clone the GitHub repository.</li>
 <li>Open the project in Xcode.</li>
 <li>Choose your target device or simulator.</li>
 <li>Build and run the application.</li>
