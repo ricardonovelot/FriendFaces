@@ -1,3 +1,5 @@
+<h3><a href="https://github.com/ricardonovelot#-recent-projects">❮‎‎‎ &nbsp; Old Projects</a></h3>
+
 # FriendFaces
 
 <table>
@@ -18,9 +20,7 @@
  - SwiftData.
  - URLSession
  - JSON parsing.
- - DateDecodingStrategy, ensuring that date data is consistently and correctly parsed.
-
-As showcased in my [recent projects](https://github.com/ricardonovelot)
+ - DateDecodingStrategy.
   
 </td>
 <td valign="top">
