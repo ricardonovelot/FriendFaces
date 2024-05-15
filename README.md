@@ -1,5 +1,7 @@
 # FriendFaces
 
+<table>
+<tr>
 <td valign="top">
 
  ## About the Project
