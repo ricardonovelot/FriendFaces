@@ -42,10 +42,12 @@ To experience FriendFace:
 3. Choose your target device or simulator.
 4. Build and run the application.
 
+<br>
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
+<br>
 ## Acknowledgments
 
 "100 Days with SwiftUI" for presenting the challenge and guiding through advanced concepts of SwiftUI and Swift.
