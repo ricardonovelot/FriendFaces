@@ -32,7 +32,6 @@
 </table>
 <br>
 
-
 ## Installation and Usage
 
 To experience FriendFace:
@@ -43,11 +42,13 @@ To experience FriendFace:
 4. Build and run the application.
 
 <br>
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 <br>
+
 ## Acknowledgments
 
 "100 Days with SwiftUI" for presenting the challenge and guiding through advanced concepts of SwiftUI and Swift.
