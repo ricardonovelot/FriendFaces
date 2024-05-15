@@ -1,4 +1,4 @@
-<h3><a href="https://github.com/ricardonovelot#-recent-projects">❮‎‎‎ &nbsp; Recent Projects</a></h3>
+<h3><a href="https://github.com/ricardonovelot">❮‎‎‎ &nbsp; Recent Projects</a></h3>
 
 # FriendFaces
 
