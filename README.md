@@ -25,7 +25,7 @@
 </td>
 <td valign="top">
 
-<img src="https://github.com/ricardonovelot/FriendFaces/assets/84286086/f37784ef-9b1b-4041-acd3-60b0e5da563a" height="600" width: auto>
+<img src="https://github.com/ricardonovelot/FriendFaces/assets/84286086/f37784ef-9b1b-4041-acd3-60b0e5da563a" height="500">
 
 </td>
 </tr>
