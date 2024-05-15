@@ -12,8 +12,8 @@
  
  ### Features
  
- - **Networking:** Efficiently fetch data from the internet.
- - **Details Page:** Users can tap on any profile to unveil a more detailed view.
+ - **Contacts List**
+ - **Contacts Details Page**
  
  ### Technical Highlights
 
