@@ -1,4 +1,4 @@
-<h3><a href="https://github.com/ricardonovelot">❮‎‎‎ &nbsp; Recent Projects</a></h3>
+<h3><a href="https://github.com/ricardonovelot/ricardonovelot/blob/main/Old-Projects.md">❮‎‎‎ &nbsp; Old Projects</a></h3>
 
 <h1>FriendFaces</h1>
 
@@ -51,5 +51,5 @@
 <br>
 
 <br>
-<h3 align="center"><a href="https://github.com/ricardonovelot">Go Back to Recent Projects ↩</a></h3>
+<h3 align="center"><a href="https://github.com/ricardonovelot/ricardonovelot/blob/main/Old-Projects.md">Go Back to Old Projects ↩</a></h3>
 <br>
